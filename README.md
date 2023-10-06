@@ -6,16 +6,16 @@ Olá! Sou Leonardo Santos, um entusiasta de exatas e da tecnologia, graduado em 
 
 Desde então, tenho mergulhado profundamente nas áreas da tecnologia de meu interesse. Minhas paixões incluem:
 
-Desenvolvimento de Software
+Desenvolvimento de Software:
 Tenho uma forte paixão pelo desenvolvimento blockchain, onde estou estudando arduamente para adquirir habilidades afim de dominar o campo.
 
-Aprendizado Contínuo
+Aprendizado Contínuo:
 A tecnologia está sempre evoluindo, e essa constante evolução é uma das partes mais emocionantes da área.
 
-Solução de Problemas
+Solução de Problemas:
 A resolução de problemas é uma parte essencial do meu dia a dia. Adoro enfrentar desafios complexos e encontrar maneiras criativas de superá-los, seja escrevendo código eficiente, configurando servidores escaláveis ou otimizando processos.
 
-Comunidade e Networking
+Comunidade e Networking:
 Acredito que a tecnologia se beneficia enormemente da comunidade e do compartilhamento de conhecimento. 
 
 No meu tempo livre, você me encontrará explorando novas tecnologias, trabalhando em projetos pessoais ou simplesmente relaxando com uma boa leitura. Estou sempre aberto a novas oportunidades de aprendizado e colaboração, e estou animado para ver para onde minha jornada na tecnologia me levará a seguir. Se você compartilha interesses semelhantes ou deseja colaborar em projetos empolgantes, sinta-se à vontade para entrar em contato comigo!
