@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Olá! Sou [Leonardo Santos], um entusiasta da tecnologia apaixonado por explorar o mundo digital e transformar ideias em realidade por meio do código. Minha jornada na área de tecnologia começou com uma curiosidade insaciável sobre como os computadores funcionam e como podem ser usados para resolver problemas do mundo real.
+Olá! Sou Leonardo Santos, um entusiasta da tecnologia apaixonado por explorar o mundo digital e transformar ideias em realidade por meio do código. Minha jornada na área de tecnologia começou com uma curiosidade insaciável sobre como os computadores funcionam e como podem ser usados para resolver problemas do mundo real.
 
-Desde então, tenho mergulhado profundamente em várias facetas da tecnologia, desde o desenvolvimento de software até a administração de sistemas. Minhas paixões incluem:
+Desde então, tenho mergulhado profundamente nas áreas da tecnologia de meu interesse. Minhas paixões incluem:
 
 Desenvolvimento de Software
 Tenho uma forte paixão pelo desenvolvimento blockchain, onde estou estudando arduamente para adquirir habilidades afim de dominar o campo.
