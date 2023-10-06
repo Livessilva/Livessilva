@@ -53,7 +53,16 @@ No meu tempo livre, você me encontrará explorando novas tecnologias, trabalhan
 
 ## Habilidades
 
-- Lista de habilidades relacionadas à tecnologia e à sua área de atuação.
+- Resolução de problemas;
+- Engenharia de produção;
+- admistração;
+- Finanças;
+- Contabilidade;
+- HTML;
+- CSS;
+- JavaScript;
+- Python;
+
 
 ## Idiomas
 
